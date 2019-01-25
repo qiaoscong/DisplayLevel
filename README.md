@@ -3,5 +3,5 @@
 
 
 ## 介绍
-  ![效果展示](http://github.com/qiaoscong/DisplayLevel/raw/master/image/jieshao.png)
+  ![效果展示](image/jieshao.png)
  
