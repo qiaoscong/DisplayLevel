@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="grade">
+        <attr name="color_jindu" format="color" />
+        <attr name="color_quanbujindu" format="color" />
+        <attr name="color_zi_nicheng" format="color" />
+        <attr name="color_qishi" format="color" />
+        <attr name="color_quan_xiao" format="color" />
+        <attr name="color_quan_da" format="color" />
+        <attr name="color_dangqian_da" format="color" />
+        <attr name="color_dangqian_xiao" format="color" />
+        <attr name="color_zi_dangqian" format="color" />
+        <attr name="color_zi_quanbu" format="color" />
+        <attr name="dengji_gong" format="integer" />
+        <attr name="radius_da" format="dimension" />
+        <attr name="radius_xiao" format="dimension" />
+        <attr name="radius_tupian" format="dimension" />
+        <attr name="kuandu" format="dimension" />
+
+    </declare-styleable>
+</resources>

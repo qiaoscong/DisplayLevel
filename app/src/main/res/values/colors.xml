@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tishi_beijing">#bc61ff</color>
+    <color name="red_normal">#FF0000</color>
+    <color name="red_pressed">#FF6666</color>
+
+    <color name="sample_red">#ff4444</color>
+    <color name="sample_blue">#33b5e5</color>
+    <color name="sample_green">#669900</color>
+    <color name="sample_yellow">#ff8800</color>
+    <!--打对勾动画颜色-->
+    <color name="arc_blue">#10a679</color>
+    <color name="color_fff">#ffffff</color>
+    <!--MD_dialog相关-->
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow">#10000000</color>
+    <color name="lite_blue">#ff359ff2</color>
+    <color name="window_background">#00000000</color>
+    <!--MD_dialog相关-->
+    <color name="default_clickable_color">#cccccc</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="gray_c">#ffcccccc</color>
+    <color name="gray_e">#eeeeee</color>
+    <color name="gray_9">#999999</color>
+    <color name="black">#000000</color>
+    <color name="black_3_d9">#D9333333</color>
+    <color name="black_4d">#4d4d4d</color>
+    <color name="orange">#fa723c</color>
+    <color name="green">#7CD237</color>
+    <color name="color_8290AF">#8290AF</color>
+    <!--标题的颜色-->
+    <color name="title">#447ed9</color>
+    <!--textview-->
+    <color name="im_font_color_text_hint">#abb1b6</color>
+    <color name="textview_white">#ffffff</color>
+    <color name="textview_black">#353535</color>
+    <color name="login_denglu">#0081b3</color>
+    <color name="textview_verificationcode_nonclickable">#cccccc</color>
+    <color name="textview_verificationcode">#9734ee</color>
+    <color name="makefriend_say">#d823ff</color>
+    <color name="follow_follow">#9734ec</color>
+    <color name="makefriend_say_wei">#cccccc</color>
+    <color name="dynamic_comment">#25121e</color>
+    <color name="d923ff">#d923ff</color>
+    <color name="cdcdcd">#cdcdcd</color>
+    <!--edittest-->
+    <color name="edittest_underline">#888888</color>
+    <color name="edittest_ccc">#00cccccc</color>
+    <color name="edittest_guangbiao">#353535</color>
+    <color name="grade_dangqian">#8cd2c1</color>
+    <color name="yindao1">#2d1033</color>
+    <color name="yindao2">#021f46</color>
+    <color name="yindao3">#065054</color>
+    <color name="yindao4">#a13939</color>
+    <!--页面跳转-->
+    <color name="ececec">#ececec</color>
+    <color name="hui_xuan">#555555</color>
+    <color name="hui_weixuan">#45000000</color>
+    <!--注册那女选择-->
+    <color name="zhuce_xuan">#b560ff</color>
+    <!--颜色值-->
+    <color name="_e664ff">#e664ff</color>
+    <color name="_4a4a4a">#4a4a4a</color>
+    <color name="_cc8fff">#cc8fff</color>
+    <color name="_f7a727">#f7a727</color>
+    <color name="_f3f3f3">#f3f3f3</color>
+
+    <color name="tab_unselect">#353535</color>
+    <color name="tab_text_select">#a456e6</color>
+    <color name="_ffd200">#ffd200</color>
+    <color name="_888888">#888888</color>
+    <color name="_cccccc">#cccccc</color>
+
+
+    <color name="_f595ff">#f595ff</color>
+    <color name="_bc61ff">#bc61ff</color>
+    <color name="_d29cff">#d29cff</color>
+    <color name="_ffa0bf">#ffa0bf</color>
+    <color name="_ff71a0">#ff71a0</color>
+    <color name="_ffde01">#ffde01</color>
+    <color name="_fff5b2">#fff5b2</color>
+    <color name="_fcfcfc">#fcfcfc</color>
+    <color name="_353535">#353535</color>
+    <color name="_efefef">#efefef</color>
+    <color name="_f7af27">#f7af27</color>
+    <color name="_dddddd">#dddddd</color>
+    <color name="_b560ff">#b560ff</color>
+    <color name="_535353">#535353</color>
+    <color name="_555555">#555555</color>
+    <color name="xiangqing_style1">#888888</color>
+    <color name="_44aaaaaa">#ffaaaaaa</color>
+    <color name="_424242">#424242</color>
+    <color name="_2d2d2d">#2d2d2d</color>
+    <color name="_90fff">#E6ffffff</color>
+    <color name="_00fff">#00ffffff</color>
+    <color name="_f6f6f6">#f6f6f6</color>
+    <color name="_c1c1c1">#c1c1c1</color>
+    <color name="_ededed">#ededed</color>
+    <color name="_eaeaea">#eaeaea</color>
+</resources>
