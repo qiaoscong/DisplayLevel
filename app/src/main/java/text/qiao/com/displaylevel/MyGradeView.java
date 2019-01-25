@@ -105,7 +105,7 @@ public class MyGradeView extends View {
      * 头像宽度
      */
     private int tou_kuan;
-    
+
 
     public MyGradeView(Context context) {
         this(context, null);

@@ -3,5 +3,5 @@
 
 
 ## 介绍
- 可自己设置等级的个数
+  ![效果展示](http://github.com/qiaoscong/DisplayLevel/raw/image/image/jieshao.png)
  
