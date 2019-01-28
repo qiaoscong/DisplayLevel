@@ -24,8 +24,7 @@
 
 ### xml
 
-   <text.qiao.com.displaylevel.MyGradeView
-   
+    <text.qiao.com.displaylevel.MyGradeView
         android:id="@+id/myGradeView"
         android:layout_width="match_parent"
         android:layout_height="140dp"
