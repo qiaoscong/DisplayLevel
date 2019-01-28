@@ -23,7 +23,9 @@
 ## 代码
 
 ### xml
+
    <text.qiao.com.displaylevel.MyGradeView
+   
         android:id="@+id/myGradeView"
         android:layout_width="match_parent"
         android:layout_height="140dp"
@@ -35,6 +37,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+        
  ### activity
         myGradeView.setDengjishu("LV2");
         myGradeView.setNicheng("我的名字");
